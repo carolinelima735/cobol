@@ -1,0 +1,5 @@
+IDENTIFICATION DIVISION.
+PROGRAM-ID. HELLO-WORLD.
+PROCEDURE DIVISION.
+DISPLAY 'meu primeiro contato com o cobol não sei oq acho'.
+STOP RUN.
